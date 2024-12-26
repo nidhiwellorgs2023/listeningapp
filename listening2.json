@@ -1,0 +1,170 @@
+[
+  {
+    "_id": { "$oid": "67612fc6e25fdf6d54bc1535" },
+    "Part 1": {
+      "audio": "https://www.ieltsolve.com/wp-content/uploads/2020/11/part-1.mp3?_=1",
+      "questions": [
+        {
+          "question": "How far is Blue Bay Apartments from the beach?",
+          "options": ["A) 10 meters", "B) 100 meters", "C) 1 meter", "D) 300 meters"],
+          "answer": "C) 1 meter"
+        },
+        {
+          "question": "What special feature does The Grand offer?",
+          "options": ["A) A large terrace", "B) Paintings on display", "C) Watersports facilities", "D) Forest views"],
+          "answer": "B) Paintings on display"
+        },
+        {
+          "question": "How much does it cost to stay at The Grand?",
+          "options": ["A) £219", "B) £275", "C) £490", "D) £319"],
+          "answer": "D) £319"
+        },
+        { "question": "Hospital insurance allows a ________ to travel to the resort.", "answer": "Relative" },
+        { "question": "The Assistant Manager’s name is ________.", "answer": "Ben Ludlow" },
+        { "question": "Insurance for personal belongings provides up to £500 for one ________.", "answer": "Item" },
+        {
+          "question": "Match the following facilities to their respective apartments:",
+          "matches": [
+            { "apartment": "Rose Garden Apartments", "facility": "A) Sunshade on terrace" },
+            { "apartment": "Blue Bay Apartments", "facility": "B) Large salt-water swimming pool" },
+            { "apartment": "The Grand", "facility": "C) Greek paintings on display" }
+          ]
+        },
+        {
+          "question": "Which apartment is located near shops?",
+          "options": ["A) Rose Garden Apartments", "B) Blue Bay Apartments", "C) The Grand"],
+          "answer": "B) Blue Bay Apartments"
+        }
+      ]
+    },
+    "Part 2": {
+      "audio": "https://www.ieltsolve.com/wp-content/uploads/2020/11/part-2.mp3?_=2",
+      "questions": [
+        {
+          "question": "Simon’s idea for a theme park came from:",
+          "options": ["A) His childhood hobby", "B) His visit to another park", "C) His interest in landscape design"],
+          "answer": "B) His visit to another park"
+        },
+        {
+          "question": "When they started, the family decided to open the park only when:",
+          "options": ["A) The weather was good", "B) The children weren’t at school", "C) Farming commitments were fewer"],
+          "answer": "C) Farming commitments were fewer"
+        },
+        {
+          "question": "Since opening, the park has had:",
+          "options": ["A) 50,000 visitors", "B) 1,000,000 visitors", "C) 1,500,000 visitors"],
+          "answer": "C) 1,500,000 visitors"
+        },
+        { "question": "The railway is ________ kilometers long.", "answer": "1.2" },
+        { "question": "The go-kart arena is ________ square meters.", "answer": "120" },
+        { "question": "The go-kart track is designed for children aged ________ to 12 years.", "answer": "5" },
+        {
+          "question": "Match the following people to their main area of work:",
+          "matches": [
+            { "person": "Simon", "work": "A) Engine maintenance" },
+            { "person": "Liz", "work": "B) Staffing" },
+            { "person": "Sarah", "work": "C) Food and drink" },
+            { "person": "Judith", "work": "D) Sales" }
+          ]
+        },
+        { "question": "The next tutorial date is on ________ January.", "answer": "25" }
+      ]
+    },
+    "Part 3": {
+      "audio": "https://www.ieltsolve.com/wp-content/uploads/2020/11/part-3.mp3?_=3",
+      "questions": [
+        {
+          "question": "What is Caroline’s dissertation topic?",
+          "options": ["A) The fishing industry", "B) Greek paintings", "C) Environmental policies"],
+          "answer": "A) The fishing industry"
+        },
+        {
+          "question": "What is one of Caroline’s strengths?",
+          "options": ["A) Note-taking", "B) Computer modeling", "C) Research planning"],
+          "answer": "B) Computer modeling"
+        },
+        {
+          "question": "What is one of Caroline’s weaknesses?",
+          "options": ["A) Lack of statistics knowledge", "B) Lack of background information", "C) Weak writing skills"],
+          "answer": "B) Lack of background information"
+        },
+        { "question": "Peer group discussions can increase ________.", "answer": "Confidence" },
+        { "question": "A limitation of study support services is the limited number of ________.", "answer": "Places" },
+        { "question": "Study skills books can sometimes be too ________.", "answer": "General" },
+        {
+          "question": "Match the possible strategies to their benefits:",
+          "matches": [
+            { "strategy": "Peer group discussion", "benefit": "A) Increases confidence" },
+            { "strategy": "Student support service", "benefit": "B) Provides structured program" },
+            { "strategy": "Study skills books", "benefit": "C) Good source of reference" }
+          ]
+        },
+        { "question": "Recommendations suggest reading notes ________ times.", "answer": "3" }
+      ]
+    },
+    "Part 4": {
+      "audio": "https://www.ieltsolve.com/wp-content/uploads/2020/11/part-4.mp3?_=4",
+      "questions": [
+        {
+          "question": "The owners of the house:",
+          "options": [
+            "A) Wanted a professional project manager",
+            "B) Had no experience living rurally",
+            "C) Were interested in environmental issues"
+          ],
+          "answer": "C) Were interested in environmental issues"
+        },
+        {
+          "question": "What does the speaker say about the site of the house?",
+          "options": ["A) The land was cheap", "B) It was unspoiled", "C) Stone was extracted nearby"],
+          "answer": "A) The land was cheap"
+        },
+        {
+          "question": "What material was used to improve the building’s insulation?",
+          "options": ["A) Glass", "B) Foam", "C) Concrete"],
+          "answer": "B) Foam"
+        },
+        { "question": "The south-facing wall was constructed with two layers of ________.", "answer": "Glass" },
+        { "question": "Internal mirrors and ________ are used to increase light.", "answer": "Windows" },
+        { "question": "The house will pay its environmental debt within ________ years.", "answer": "15" },
+        {
+          "question": "Match the special features to their descriptions:",
+          "matches": [
+            { "feature": "Solar energy", "description": "A) Photovoltaic tiles" },
+            { "feature": "Flooring material", "description": "B) Recycled wood" },
+            { "feature": "Domestic waste system", "description": "C) Organic waste processing system" }
+          ]
+        },
+        { "question": "The construction of the house involved a large quantity of ________.", "answer": "Concrete" }
+      ]
+    },
+    "Part 5": {
+      "audio": "https://assets.ctfassets.net/unrdeg6se4ke/3cB4ifvDTH8J8I5h7SCGQ8/7f6eeefce8ab4ff4fa4c7ce081ce8402/Audio_-_Free_practice_test_-_Listening_-_Plan__map__diagram__labelling.mp3",
+      "questions": [
+        {
+          "question": "Label the plan below. Choose answers from the options provided.",
+          "type": "diagram",
+          "image": "http://files.cluster2.hostgator.co.in/hostgator89775/image/librarytour_2.jpg",
+          "labels": [
+            { "id": "11", "correct_label": "Reference books" },
+            { "id": "12", "correct_label": "Periodicals" },
+            { "id": "13", "correct_label": "Local history collection" },
+            { "id": "14", "correct_label": "Children's books" },
+            { "id": "15", "correct_label": "Multimedia" }
+          ],
+          "options": [
+            "Art collection",
+            "Children's books",
+            "Computers",
+            "Local history collection",
+            "Meeting room",
+            "Multimedia",
+            "Periodicals",
+            "Reference books",
+            "Tourist information"
+          ]
+        }
+      ]
+    }
+  }
+]
